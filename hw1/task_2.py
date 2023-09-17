@@ -8,4 +8,3 @@ def sort_list_declarative(numbers):
 numbers = [1, 7, 3, 9, 5]
 sorting = sort_list_declarative(numbers)
 print(sorting)   
-# Вывод: [9, 5, 3, 7, 1]
